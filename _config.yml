@@ -18,11 +18,14 @@ tagline: Manufacturing and Engineering
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
-email: hdavidmassey654@gmail.com
-phone: davidmassey654@gmail.com
-website: davemassey.com #do not add http://
-github: #
+email: davidmassey654@gmail.com
+phone: +44 7549 855778
+website: marketingbh.com #do not add http://
 linkedin: davidmassey
-twitter: '@davemassey'
+github: sharu725
+twitter: '@webjeda'
 
+# Tracker
+analytics: UA-83979019-1
 #Update all the sections by editing the files inside _includes folder.
+
