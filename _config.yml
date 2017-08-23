@@ -20,10 +20,6 @@ pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and pro
 #sidebar links
 email: davidmassey654@gmail.com
 phone: +44 7549 855778
-website: marketingbh.com #do not add http://
-linkedin: davidmassey
-github: sharu725
-twitter: '@webjeda'
 
 # Tracker
 analytics: UA-83979019-1
